@@ -1,0 +1,9 @@
+Month,Cost_Center,Vendor,Material,Debit,Credit
+Jan-2025,CC1001,Vendor_A,Steel,0,850000
+Jan-2025,CC2001,Vendor_B,Cement,420000,0
+Feb-2025,CC1001,Vendor_A,Steel,0,920000
+Feb-2025,CC2001,Vendor_B,Cement,450000,0
+Mar-2025,CC3001,Vendor_C,Iron,0,780000
+Mar-2025,CC2001,Vendor_B,Cement,500000,0
+Apr-2025,CC1001,Vendor_A,Steel,0,880000
+Apr-2025,CC3001,Vendor_C,Iron,470000,0
